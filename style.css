@@ -11,8 +11,15 @@ table
 }
 td
 {
+    border: 1px solid black;
     vertical-align: top;
     width: 70%;
+}
+img
+{
+    height: 15px;
+    width: 13px;
+    border-radius: 50%;
 }
 #td1
 {
@@ -36,6 +43,15 @@ td
     font-family: Arial;
     font-weight: bold;
     margin: 0;
+}
+#last
+{
+    text-align: center;
+    font-size: 11px;
+    font-family: Cambria;
+    transform: scale(1,.8);
+    letter-spacing: .5px;
+
 }
 a
 {
